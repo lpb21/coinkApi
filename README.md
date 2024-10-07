@@ -183,7 +183,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno de desarrollo local:
 2. **Navega al directorio del proyecto**:
 
    ```bash
-   cd tu-proyecto-angular
+   cd coinkApi
    
 3. **Instala las dependencias**:
 
