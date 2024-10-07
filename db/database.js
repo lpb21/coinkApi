@@ -1,4 +1,3 @@
-const { config } = require("dotenv");
 const { Sequelize, QueryTypes } = require("sequelize");
 const tedious = require("tedious");
 const { Config } = require("../src/config/index")

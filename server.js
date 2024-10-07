@@ -4,8 +4,6 @@ const cors = require('cors')
 const express = require("express")
 const app = express()
 
-
-
 const { Config } = require("./src/config/index")
 const routes = require('./routes/routes')
 
